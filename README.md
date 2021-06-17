@@ -48,4 +48,4 @@
 [電腦下棋](https://programmermedia.org/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/11-chess/)       | 對局搜尋 / 策略梯度下降 / 蒙地卡羅 / AlphaGo
 [自動控制](https://programmermedia.org/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/12-control/)     | 回饋系統 / 模糊控制 / 強化學習 / 自動駕駛 / 機器人
 # 授權聲明
-* [授權聲明](https://github.com/www-abcdefg/sp109b/blob/main/LICENSE.md)
+* [授權聲明](https://github.com/www-abcdefg/ai109b/blob/main/LICENSE.md)

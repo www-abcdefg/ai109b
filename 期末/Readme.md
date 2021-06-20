@@ -1,7 +1,7 @@
 # 人工智慧期末專案 五子棋 加alpha + beta剪枝 對局搜尋
 ## Min-Max 對局搜尋法
 
-![pic](https://github.com/www-abcdefg/ai109b/tree/main/pic/%E7%AC%AC%E5%85%AB%E9%80%B1pic)
+![pic](https://github.com/www-abcdefg/ai109b/blob/main/pic/%E7%AC%AC%E5%85%AB%E9%80%B1pic/%E7%AC%AC%E5%85%AB%E9%80%B1pic.png)
 
 ## alpha-beta剪枝搜尋
 * 「Min-Max 對局搜尋法」的一個修改版，主要是在 Min-Max 當中加入了 α 與 β 兩個紀錄值，來做為是否要修剪的參考標準

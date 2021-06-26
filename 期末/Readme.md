@@ -5,7 +5,7 @@
 - [程式碼](#CODE)
 - [參考資料](#參考資料)
 - [授權聲明](#授權聲明)
-## Min-Max 對局搜尋法
+## Min-Max對局搜尋法
 
 ![pic](https://github.com/www-abcdefg/ai109b/blob/main/pic/%E7%AC%AC%E5%85%AB%E9%80%B1pic/%E7%AC%AC%E5%85%AB%E9%80%B1pic.png)
 

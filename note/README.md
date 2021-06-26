@@ -17,6 +17,8 @@
 [第十四週](https://github.com/www-abcdefg/ai109b/blob/main/note/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%AC%AC%E5%8D%81%E5%9B%9B%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20210527 | 人工智慧的方法<br> 常見神經元的開關函數<br>深度學習的神經網路(CNN，RNN、LSTM，GAN)<br> 程式執行(code與執行結果)
 [第十五週](https://github.com/www-abcdefg/ai109b/blob/main/note/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%AC%AC%E5%8D%81%E4%BA%94%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20210605 | Colab <br> RNN <br> One-hot Enconding <br> 下載  typing_extensions matplotlib opencv<br>程式執行(code與執行結果)
 [第十六週](https://github.com/www-abcdefg/ai109b/blob/main/note/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%AC%AC%E5%8D%81%E5%85%AD%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20210610 | 機器學習<br>  最大概似估計<br>  蒙地卡羅方法<br>  黎曼積分<br>  馬可夫鏈<br>  吉布斯採樣<br>  隱藏式馬可夫模型<br>  維特比演算法<br> EM演算法實作<br>  K-近鄰演算法<br>  決策樹 <br> 下載sklearn<br>  程式執行(code與執行結果)
+[20210617第十七週](https://github.com/cycyucheng1010/ai109b/blob/main/Note/20210617%E7%AC%AC%E5%8D%81%E4%B8%83%E9%80%B1%E7%AD%86%E8%A8%98.md) | 詞向量 <br> 開放專案授權
+[20210624第十八週](https://github.com/cycyucheng1010/ai109b/blob/main/Note/20210624%E7%AC%AC%E5%8D%81%E5%85%AB%E9%80%B1%E7%AD%86%E8%A8%98.md) | 鍾誠老師上課教材 <br> 台大人工智慧學習連結 <br> 李永樂老師的YT教學 <br> 線上學習資源 <br> 電子書
 
 # 授權聲明
 * [授權聲明](https://github.com/www-abcdefg/ai109b/blob/main/LICENSE.md)

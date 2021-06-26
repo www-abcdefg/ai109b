@@ -431,7 +431,6 @@ Input e.g.: 11、22、13......
 將o下在?
 ```
 ## 參考資料
-* [博弈树alpha-beta剪枝搜索的五子棋AI](https://www.jianshu.com/p/8376efe0782d)
 * [五子棋code參考](https://github.com/colingogogo/gobang_AI#gobang_ai)
 * [min max](https://gitlab.com/ccc109/ai/-/blob/master/11-chess/02-Min-Max%E5%B0%8D%E5%B1%80%E6%90%9C%E5%B0%8B%E6%B3%95.md)
 * [陳鍾誠老師code ai/11-chess/01-gomoku/gomoku.py](https://gitlab.com/ccc109/ai/-/blob/master/11-chess/01-gomoku/gomoku.py)
